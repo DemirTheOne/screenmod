@@ -1,0 +1,18 @@
+{
+  "block.simply_screens.screen": "Screen",
+  "simply_screens.gui.title": "Screen Settings",
+  "simply_screens.gui.screen_id": "Screen ID (empty = standalone)",
+  "simply_screens.gui.source": "Image file path or http(s) URL",
+  "simply_screens.gui.browse": "Browse...",
+  "simply_screens.gui.import": "Import",
+  "simply_screens.gui.none": "None",
+  "simply_screens.gui.apply": "Apply",
+  "simply_screens.gui.cancel": "Cancel",
+  "simply_screens.gui.aspect_on": "Keep aspect ratio: ON",
+  "simply_screens.gui.aspect_off": "Keep aspect ratio: OFF",
+  "simply_screens.gui.prev": "<",
+  "simply_screens.gui.next": ">",
+  "simply_screens.gui.images": "Server images",
+  "simply_screens.gui.uploading": "Uploading %s ...",
+  "simply_screens.gui.error": "Error: %s"
+}

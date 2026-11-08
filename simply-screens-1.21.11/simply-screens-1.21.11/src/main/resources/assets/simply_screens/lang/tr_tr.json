@@ -1,0 +1,18 @@
+{
+  "block.simply_screens.screen": "Ekran",
+  "simply_screens.gui.title": "Ekran Ayarları",
+  "simply_screens.gui.screen_id": "Ekran ID (boş = tekil)",
+  "simply_screens.gui.source": "Resim dosya yolu veya http(s) URL",
+  "simply_screens.gui.browse": "Gözat...",
+  "simply_screens.gui.import": "İçe aktar",
+  "simply_screens.gui.none": "Yok",
+  "simply_screens.gui.apply": "Uygula",
+  "simply_screens.gui.cancel": "İptal",
+  "simply_screens.gui.aspect_on": "En-boy oranını koru: AÇIK",
+  "simply_screens.gui.aspect_off": "En-boy oranını koru: KAPALI",
+  "simply_screens.gui.prev": "<",
+  "simply_screens.gui.next": ">",
+  "simply_screens.gui.images": "Sunucudaki resimler",
+  "simply_screens.gui.uploading": "Yükleniyor: %s ...",
+  "simply_screens.gui.error": "Hata: %s"
+}
